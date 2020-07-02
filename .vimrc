@@ -71,7 +71,6 @@ Plug 'tpope/vim-fugitive'
 
 "Easy Motion
 Plug 'easymotion/vim-easymotion'
-Center
 call plug#end()
 
 
